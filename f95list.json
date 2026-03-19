@@ -3332,7 +3332,7 @@
     "updatedAtDateTime": "2026-03-14T11:26:36+0100",
     "createdAtLocal": "2024-10-20 16:43:00",
     "updatedAtLocal": "2026-03-16 12:54:17",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 85,
@@ -7807,7 +7807,7 @@
     "updatedAtDateTime": "2026-03-05T22:47:04+0100",
     "createdAtLocal": "2025-06-28 09:51:00",
     "updatedAtLocal": "2026-03-11 18:08:57",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 181,
@@ -8363,7 +8363,7 @@
     "updatedAtDateTime": "2026-03-16T10:25:51+0100",
     "createdAtLocal": "2025-06-28 09:56:00",
     "updatedAtLocal": "2026-03-08 22:35:43",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 193,
@@ -8503,7 +8503,7 @@
     "updatedAtDateTime": "2026-03-12T19:45:21+0100",
     "createdAtLocal": "2025-06-28 09:33:00",
     "updatedAtLocal": "2026-03-13 23:52:49",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 196,
@@ -28077,7 +28077,7 @@
     "updatedAtDateTime": "2026-03-09T10:09:44+0100",
     "createdAtLocal": "2025-07-25 16:18:00",
     "updatedAtLocal": "2026-03-10 00:52:55",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 633,
@@ -31975,7 +31975,7 @@
     "updatedAtDateTime": "2026-03-11T18:06:08+0100",
     "createdAtLocal": "2025-10-04 19:17:00",
     "updatedAtLocal": "2026-03-11 22:44:48",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 721,
@@ -33257,7 +33257,7 @@
     "updatedAtDateTime": "2026-03-16T15:17:46+0100",
     "createdAtLocal": "2025-10-19 13:16:00",
     "updatedAtLocal": "2026-03-18 00:32:27",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 749,
@@ -41492,7 +41492,7 @@
     "updatedAtDateTime": "2026-03-14T16:28:04+0100",
     "createdAtLocal": "2026-03-11 01:05:58",
     "updatedAtLocal": "2026-03-11 01:05:58",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 930,
@@ -41529,7 +41529,7 @@
     "updatedAtDateTime": "2026-03-11T14:46:08+0100",
     "createdAtLocal": "2026-03-11 19:43:38",
     "updatedAtLocal": "2026-03-11 19:43:38",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 931,
@@ -41569,7 +41569,7 @@
     "updatedAtDateTime": "2026-03-16T03:02:12+0100",
     "createdAtLocal": "2026-03-11 20:27:27",
     "updatedAtLocal": "2026-03-11 20:27:27",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 932,
@@ -41627,7 +41627,7 @@
     "updatedAtDateTime": "2026-01-09T22:24:14+0100",
     "createdAtLocal": "2026-03-11 21:13:23",
     "updatedAtLocal": "2026-03-11 21:13:23",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 933,
@@ -41686,7 +41686,7 @@
     "updatedAtDateTime": "2026-03-14T12:04:11+0100",
     "createdAtLocal": "2026-03-14 00:17:21",
     "updatedAtLocal": "2026-03-14 00:17:21",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 934,
@@ -41732,7 +41732,7 @@
     "updatedAtDateTime": "2026-03-15T00:39:55+0100",
     "createdAtLocal": "2026-03-14 00:41:31",
     "updatedAtLocal": "2026-03-14 00:41:31",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 935,
@@ -41780,7 +41780,7 @@
     "updatedAtDateTime": "2026-03-13T07:03:17+0100",
     "createdAtLocal": "2026-03-14 01:03:57",
     "updatedAtLocal": "2026-03-14 01:03:57",
-    "translationType": "automatique"
+    "translationType": "auto avec correction"
   },
   {
     "uid": 936,
