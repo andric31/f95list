@@ -43291,14 +43291,19 @@
     "discordlink": "https://discord.com/channels/1278373830624149524/1487711853135138947/1487711925944057966",
     "translation": "https://mega.nz/file/PMVH3bwL#pKRdFPSHggv6mhHcePoAth24IjBt7kzQnpL4e9vnFkM",
     "translationType": "auto avec correction",
-    "translationsExtra": [],
+    "translationsExtra": [
+      {
+        "name": "0.05 Patreon",
+        "link": "https://mega.nz/file/eYc1TT6L#wyjj_GpK6VI3VD6ABvIW0RoRQfIUqctOhBahD5m68mg"
+      }
+    ],
     "translationsArchive": "https://mega.nz/folder/OIkRAZQQ#e8oUtQc8rNtaKYstO-eEew",
     "description": "🕳️ Piégée là où personne n’aurait dû aller\n\nLors d’une expédition universitaire de spéléologie, Jenny se retrouve isolée dans une partie inconnue d’une grotte après un effondrement.\nCoincée dans l’obscurité, elle comprend vite que ce lieu cache bien plus qu’un simple danger… et que quelque chose 👀 l’observe peut-être déjà, tout près 🌑.\n\nDans le noir, chaque pas peut devenir une tentation… ou une chute.",
     "notes": "",
     "createdAtDateTime": "2025-11-30T05:34:08+0100",
     "updatedAtDateTime": "2026-05-25T06:12:54+0200",
     "createdAtLocal": "2026-03-29 09:23:52",
-    "updatedAtLocal": "2026-05-29 16:54:21"
+    "updatedAtLocal": "2026-05-30 11:55:43"
   },
   {
     "uid": 968,
