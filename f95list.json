@@ -7412,13 +7412,13 @@
     "createdAtDateTime": "2021-04-09T11:44:25+0200",
     "updatedAtDateTime": "2026-05-23T18:02:35+0200",
     "createdAtLocal": "2025-06-28 09:53:00",
-    "updatedAtLocal": "2026-07-07 00:38:58",
+    "updatedAtLocal": "2026-07-07 00:40:11",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
-    "hasNotes": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
+    "hasNotes": true,
     "hasF95Info": true
   },
   {
