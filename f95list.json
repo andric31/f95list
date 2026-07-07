@@ -20348,13 +20348,13 @@
     "createdAtDateTime": "2024-11-15T02:37:21+0100",
     "updatedAtDateTime": "2026-06-30T19:38:14+0200",
     "createdAtLocal": "2025-04-13 00:05:00",
-    "updatedAtLocal": "2026-07-08 00:00:21",
+    "updatedAtLocal": "2026-07-08 00:00:49",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
     "hasDescription": true,
-    "hasNotes": true,
+    "hasNotes": false,
     "hasF95Info": true
   },
   {
