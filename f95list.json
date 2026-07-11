@@ -48309,7 +48309,7 @@
     "updatedAtDateTime": "2026-07-11T15:40:47+0200",
     "createdAtLocal": "2026-07-12 00:02:55",
     "updatedAtLocal": "2026-07-12 00:02:55",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
