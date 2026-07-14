@@ -19275,6 +19275,7 @@
     "uid": 438,
     "id": "63041",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Raptus [Ep.10 P6 v1.0] [RedStarStudios]",
     "url": "https://f95zone.to/threads/63041/",
     "tags": [
@@ -19313,14 +19314,14 @@
     "createdAtDateTime": "2020-09-30T20:54:49+0200",
     "updatedAtDateTime": "2025-12-16T06:22:34+0100",
     "createdAtLocal": "2025-03-29 21:39:00",
-    "updatedAtLocal": "2025-12-20 01:33:00",
+    "updatedAtLocal": "2026-07-14 09:44:54",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 439,
