@@ -34891,6 +34891,7 @@
     "uid": 780,
     "id": "192956",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Completed Only a Dream [v2024-02-23] [tightbuns]",
     "url": "https://f95zone.to/threads/192956/",
     "tags": [
@@ -34920,14 +34921,14 @@
     "createdAtDateTime": "2024-02-12T12:50:49+0100",
     "updatedAtDateTime": "2025-05-29T13:28:37+0200",
     "createdAtLocal": "2025-11-09 01:28:00",
-    "updatedAtLocal": "2025-11-09 01:28:00",
+    "updatedAtLocal": "2026-07-19 10:12:22",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 781,
