@@ -885,6 +885,7 @@
     "uid": 23,
     "id": "631",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Completed Demon Master Chris [Nyaatrap]",
     "url": "https://f95zone.to/threads/631/",
     "tags": [
@@ -923,9 +924,9 @@
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 24,
