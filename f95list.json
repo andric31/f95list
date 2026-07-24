@@ -42443,13 +42443,13 @@
     "cleanTitle": "Planet StrongHold [v1.5.5 Final] [Winter Wolves]",
     "updatedAt": "27 novembre 2019",
     "releaseDate": "28 février 2011",
-    "version": "",
+    "version": "v1.5.5 Final",
     "censored": "No",
-    "os": "",
+    "os": "Windows",
     "imageUrl": "https://attachments.f95zone.to/2019/11/486389_486189_Cover.png",
     "videoUrl": "https://www.youtube.com/embed/O2OnfrPtcSQ",
     "createdAtDateTime": "2016-09-27T18:59:18+0200",
-    "updatedAtDateTime": "2016-09-27T18:59:18+0200",
+    "updatedAtDateTime": "2016-09-29T00:21:17+0200",
     "createdAtLocal": "2026-03-16 12:13:43",
     "updatedAtLocal": "2026-03-16 12:13:43",
     "hasDiscord": true,
@@ -42458,7 +42458,7 @@
     "hasTranslationsArchive": true,
     "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 938,
