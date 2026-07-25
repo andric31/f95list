@@ -49171,7 +49171,7 @@
     "updatedAtDateTime": "2024-06-20T17:56:18+0200",
     "createdAtLocal": "2026-07-25 10:29:04",
     "updatedAtLocal": "2026-07-25 10:29:04",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
