@@ -1006,8 +1006,8 @@
     ],
     "f95FranceTranslation": "oui",
     "cleanTitle": "Sakura Agent [Winged Cloud]",
-    "updatedAt": "",
-    "releaseDate": "",
+    "updatedAt": "27/01/2017",
+    "releaseDate": "27/01/2017",
     "version": "Final",
     "censored": "No",
     "os": "Windows, Linux, Android",
@@ -1023,7 +1023,7 @@
     "hasTranslationsArchive": true,
     "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 26,
