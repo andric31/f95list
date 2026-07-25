@@ -12072,6 +12072,7 @@
     "uid": 272,
     "id": "161488",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Abandoned Lust of Pain: Rework [Ep. 7] [Vilkas Creative]",
     "url": "https://f95zone.to/threads/161488/",
     "tags": [
@@ -12104,14 +12105,14 @@
     "createdAtDateTime": "2023-05-27T06:48:34+0200",
     "updatedAtDateTime": "2024-07-04T12:32:57+0200",
     "createdAtLocal": "2025-02-20 00:05:00",
-    "updatedAtLocal": "2025-02-20 00:05:00",
+    "updatedAtLocal": "2026-07-25 17:35:51",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 273,
