@@ -12030,6 +12030,7 @@
     "uid": 271,
     "id": "133573",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Abandoned Lust of Pain [v0.3] [Vilkas Creative]",
     "url": "https://f95zone.to/threads/133573/",
     "tags": [
@@ -12058,14 +12059,14 @@
     "createdAtDateTime": "2022-10-12T02:15:37+0200",
     "updatedAtDateTime": "2023-02-13T10:31:11+0100",
     "createdAtLocal": "2025-02-20 00:05:00",
-    "updatedAtLocal": "2025-02-20 00:05:00",
+    "updatedAtLocal": "2026-07-25 16:34:42",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 272,
