@@ -37013,6 +37013,7 @@
     "uid": 820,
     "id": "92551",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Completed The Goblin's Brides [v1.0] [TrustyOldPatches]",
     "url": "https://f95zone.to/threads/92551/",
     "tags": [
@@ -37039,6 +37040,7 @@
       "virgin",
       "voyeurism"
     ],
+    "f95FranceTranslation": "non défini",
     "cleanTitle": "The Goblin's Brides [v1.0] [TrustyOldPatches]",
     "updatedAt": "2 décembre 2022",
     "releaseDate": "2 décembre 2022",
@@ -37050,14 +37052,14 @@
     "createdAtDateTime": "2021-08-27T22:28:49+0200",
     "updatedAtDateTime": "2024-10-25T10:32:53+0200",
     "createdAtLocal": "2025-11-23 11:49:17",
-    "updatedAtLocal": "2025-11-23 11:49:17",
+    "updatedAtLocal": "2026-07-25 15:50:55",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 821,
