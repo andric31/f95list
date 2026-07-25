@@ -9896,6 +9896,7 @@
     "uid": 224,
     "id": "155619",
     "collection": "",
+    "serie": "",
     "title": "Ren'Py Abandoned Silent House [Ep. 2] [Vilkas Creative]",
     "url": "https://f95zone.to/threads/155619/",
     "tags": [
@@ -9929,14 +9930,14 @@
     "createdAtDateTime": "2023-04-09T23:05:02+0200",
     "updatedAtDateTime": "2024-07-08T12:32:57+0200",
     "createdAtLocal": "2025-02-26 00:05:00",
-    "updatedAtLocal": "2025-02-26 00:05:00",
+    "updatedAtLocal": "2026-07-25 16:03:17",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 225,
