@@ -49566,7 +49566,7 @@
     "updatedAtDateTime": "2024-05-18T18:56:10+0200",
     "createdAtLocal": "2026-07-30 14:16:51",
     "updatedAtLocal": "2026-07-30 14:16:51",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
