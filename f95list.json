@@ -50013,7 +50013,7 @@
     "updatedAtDateTime": "2020-12-28T15:23:13+0100",
     "createdAtLocal": "2026-08-01 14:43:19",
     "updatedAtLocal": "2026-08-01 14:43:19",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
