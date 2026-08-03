@@ -50437,7 +50437,7 @@
     "updatedAtDateTime": "2026-05-27T01:24:56+0200",
     "createdAtLocal": "2026-08-03 19:47:17",
     "updatedAtLocal": "2026-08-03 19:47:17",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
