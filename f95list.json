@@ -50746,7 +50746,7 @@
     "updatedAtDateTime": "2024-11-03T22:49:36+0100",
     "createdAtLocal": "2026-08-04 22:24:54",
     "updatedAtLocal": "2026-08-04 22:24:54",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
