@@ -50863,7 +50863,7 @@
     "updatedAtDateTime": "2024-04-09T15:52:23+0200",
     "createdAtLocal": "2026-08-05 18:55:48",
     "updatedAtLocal": "2026-08-05 18:55:48",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
