@@ -51123,7 +51123,7 @@
     "updatedAtDateTime": "2024-11-28T12:43:31+0100",
     "createdAtLocal": "2026-08-05 23:39:18",
     "updatedAtLocal": "2026-08-05 23:39:18",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
