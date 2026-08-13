@@ -6198,6 +6198,7 @@
     "uid": 146,
     "id": "108759",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Abandoned I Am Christine [v0.3] [Baap]",
     "url": "https://f95zone.to/threads/108759/",
     "tags": [
@@ -6231,14 +6232,14 @@
     "createdAtDateTime": "2022-02-18T19:07:07+0100",
     "updatedAtDateTime": "2022-03-10T17:14:48+0100",
     "createdAtLocal": "2025-01-22 00:05:00",
-    "updatedAtLocal": "2025-01-22 00:05:00",
+    "updatedAtLocal": "2026-08-13 21:52:55",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 147,
