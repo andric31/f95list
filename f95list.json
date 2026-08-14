@@ -51520,7 +51520,7 @@
     "updatedAtDateTime": "2025-03-13T21:42:07+0100",
     "createdAtLocal": "2026-08-14 21:01:37",
     "updatedAtLocal": "2026-08-14 21:01:37",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
