@@ -51669,7 +51669,7 @@
     "updatedAtDateTime": "2023-10-20T18:40:46+0200",
     "createdAtLocal": "2026-08-14 23:13:04",
     "updatedAtLocal": "2026-08-14 23:13:04",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
