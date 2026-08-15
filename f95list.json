@@ -8738,13 +8738,13 @@
     "createdAtDateTime": "2022-07-29T22:21:28+0200",
     "updatedAtDateTime": "2026-08-14T23:48:37+0200",
     "createdAtLocal": "2025-06-28 09:42:00",
-    "updatedAtLocal": "2026-08-15 12:35:04",
+    "updatedAtLocal": "2026-08-15 12:35:59",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
     "hasDescription": true,
-    "hasNotes": true,
+    "hasNotes": false,
     "hasF95Info": true
   },
   {
