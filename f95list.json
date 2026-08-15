@@ -52003,7 +52003,7 @@
     "updatedAtDateTime": "2026-08-14T22:12:42+0200",
     "createdAtLocal": "2026-08-15 21:54:54",
     "updatedAtLocal": "2026-08-15 21:54:54",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
