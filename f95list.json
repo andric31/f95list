@@ -52483,7 +52483,7 @@
     "updatedAtDateTime": "2025-10-07T21:36:02+0200",
     "createdAtLocal": "2026-08-21 14:06:31",
     "updatedAtLocal": "2026-08-21 14:06:31",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
