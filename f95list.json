@@ -52236,7 +52236,7 @@
     "updatedAtDateTime": "2025-08-05T15:05:59+0200",
     "createdAtLocal": "2026-08-20 22:13:06",
     "updatedAtLocal": "2026-08-20 22:13:06",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
