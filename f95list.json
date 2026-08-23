@@ -21645,6 +21645,7 @@
     "uid": 481,
     "id": "133833",
     "collection": "",
+    "serie": "",
     "title": "VN Ren'Py Completed Lost in Paradise [v1.00] [Dimajio333]",
     "url": "https://f95zone.to/threads/133833/",
     "tags": [
@@ -21659,7 +21660,6 @@
       "interracial",
       "male protagonist",
       "multiple penetration",
-      "netorare",
       "oral sex",
       "teasing",
       "vaginal sex"
@@ -21676,14 +21676,14 @@
     "createdAtDateTime": "2022-10-14T17:48:14+0200",
     "updatedAtDateTime": "2024-06-25T10:37:36+0200",
     "createdAtLocal": "2025-04-20 00:05:00",
-    "updatedAtLocal": "2025-04-20 00:05:00",
+    "updatedAtLocal": "2026-08-23 12:14:57",
     "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
-    "hasTranslationsArchive": false,
-    "hasDescription": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
     "hasNotes": false,
-    "hasF95Info": false
+    "hasF95Info": true
   },
   {
     "uid": 482,
