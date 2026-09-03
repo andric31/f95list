@@ -52972,13 +52972,13 @@
     "createdAtDateTime": "2026-05-16T11:47:48+0200",
     "updatedAtDateTime": "2026-08-30T02:43:03+0200",
     "createdAtLocal": "2026-09-03 22:08:03",
-    "updatedAtLocal": "2026-09-03 22:08:03",
+    "updatedAtLocal": "2026-09-03 22:12:37",
     "hasDiscord": false,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
     "hasDescription": true,
-    "hasNotes": false,
+    "hasNotes": true,
     "hasF95Info": true
   }
 ]
