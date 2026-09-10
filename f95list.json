@@ -53233,7 +53233,7 @@
     "updatedAtDateTime": "2026-09-10T18:12:50+0200",
     "createdAtLocal": "2026-09-10 21:38:04",
     "updatedAtLocal": "2026-09-10 21:38:04",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
