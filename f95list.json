@@ -55557,5 +55557,43 @@
     "hasDescription": true,
     "hasNotes": false,
     "hasF95Info": true
+  },
+  {
+    "uid": 1206,
+    "id": "173280",
+    "collection": "",
+    "serie": "",
+    "title": "Unity Camp Pinewood Remix [v4.4.0] [VaultMan]",
+    "url": "https://f95zone.to/threads/173280/",
+    "tags": [
+      "2dcg",
+      "animated",
+      "dating sim",
+      "harem",
+      "male protagonist",
+      "mobile game",
+      "parody"
+    ],
+    "f95FranceTranslation": "non défini",
+    "cleanTitle": "Camp Pinewood Remix [v4.4.0] [VaultMan]",
+    "updatedAt": "18 septembre 2026",
+    "releaseDate": "16 septembre 2026",
+    "version": "4.4.0",
+    "censored": "No",
+    "os": "Windows, Linux, Mac, Android",
+    "imageUrl": "https://attachments.f95zone.to/2023/09/2920473_cp1r.png",
+    "videoUrl": "",
+    "discordExclusive": "oui",
+    "createdAtDateTime": "2023-09-02T06:44:45+0200",
+    "updatedAtDateTime": "2026-09-18T14:18:53+0200",
+    "createdAtLocal": "2026-10-06 22:01:15",
+    "updatedAtLocal": "2026-10-06 22:01:15",
+    "hasDiscord": true,
+    "hasTranslation": true,
+    "hasTranslationsExtra": false,
+    "hasTranslationsArchive": true,
+    "hasDescription": true,
+    "hasNotes": false,
+    "hasF95Info": true
   }
 ]
