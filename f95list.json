@@ -55912,7 +55912,7 @@
     "updatedAtDateTime": "2026-05-29T22:39:02+0200",
     "createdAtLocal": "2026-10-10 00:48:32",
     "updatedAtLocal": "2026-10-10 00:48:32",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
