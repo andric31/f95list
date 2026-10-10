@@ -56009,7 +56009,7 @@
     "updatedAtDateTime": "2026-04-21T18:19:05+0200",
     "createdAtLocal": "2026-10-11 01:56:27",
     "updatedAtLocal": "2026-10-11 01:56:27",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
