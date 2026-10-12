@@ -56162,7 +56162,7 @@
     "updatedAtDateTime": "2025-04-22T00:21:11+0200",
     "createdAtLocal": "2026-10-12 18:47:00",
     "updatedAtLocal": "2026-10-12 18:47:00",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
