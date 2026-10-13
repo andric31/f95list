@@ -56205,7 +56205,7 @@
     "updatedAtDateTime": "2024-04-10T20:28:33+0200",
     "createdAtLocal": "2026-10-13 18:46:24",
     "updatedAtLocal": "2026-10-13 18:46:24",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
