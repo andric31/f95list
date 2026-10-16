@@ -56472,7 +56472,7 @@
     "updatedAtDateTime": "2024-09-25T21:49:08+0200",
     "createdAtLocal": "2026-10-16 13:32:21",
     "updatedAtLocal": "2026-10-16 13:32:21",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
