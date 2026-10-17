@@ -56642,7 +56642,7 @@
     "updatedAtDateTime": "2025-03-10T11:25:23+0100",
     "createdAtLocal": "2026-10-17 17:23:15",
     "updatedAtLocal": "2026-10-17 17:23:15",
-    "hasDiscord": false,
+    "hasDiscord": true,
     "hasTranslation": true,
     "hasTranslationsExtra": false,
     "hasTranslationsArchive": true,
